@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "examlpe_mod:items/poision_gem_sword"
+  }
+}

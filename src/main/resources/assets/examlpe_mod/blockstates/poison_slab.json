@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "examlpe_mod:block/poison_slab"
+    },
+    "type=top": {
+      "model": "examlpe_mod:block/poison_slab_top"
+    },
+    "type=double": {
+      "model": "examlpe_mod:block/poison_slab_full"
+    }
+  }
+}

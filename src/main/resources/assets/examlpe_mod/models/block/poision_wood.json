@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "examlpe_mod:blocks/poision_log_side",
+    "particle": "examlpe_mod:blocks/poision_log_side"
+  }
+}

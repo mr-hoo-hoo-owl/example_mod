@@ -1,0 +1,22 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "1": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "2": {
+      "item": "examlpe_mod:poision_planks"
+    }
+  },
+  "result": {
+    "item": "examlpe_mod:poision_slab",
+    "count": 6
+  }
+}

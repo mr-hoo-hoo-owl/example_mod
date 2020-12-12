@@ -1,0 +1,36 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "examlpe_mod:poision"
+    },
+    "1": {
+      "item": "examlpe_mod:poision"
+    },
+    "2": {
+      "item": "examlpe_mod:poision"
+    },
+    "3": {
+      "item": "examlpe_mod:poision"
+    },
+    "5": {
+      "item": "examlpe_mod:poision"
+    },
+    "6": {
+      "item": "examlpe_mod:poision"
+    },
+    "8": {
+      "item": "examlpe_mod:poision"
+    }
+  },
+  "result": {
+    "item": "examlpe_mod:poision_armor_leggings",
+    "count": 1
+  }
+}

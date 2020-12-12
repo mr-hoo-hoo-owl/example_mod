@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "examlpe_mod:blocks/poision_log_top",
+    "up": "examlpe_mod:blocks/poision_log_top",
+    "north": "examlpe_mod:blocks/poision_log_side",
+    "east": "examlpe_mod:blocks/poision_log_side",
+    "south": "examlpe_mod:blocks/poision_log_side",
+    "west": "examlpe_mod:blocks/poision_log_side",
+    "particle": "examlpe_mod:blocks/poision_log_top"
+  }
+}

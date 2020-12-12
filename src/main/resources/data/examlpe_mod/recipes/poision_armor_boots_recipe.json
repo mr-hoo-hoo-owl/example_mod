@@ -1,0 +1,26 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "examlpe_mod:poision"
+    },
+    "2": {
+      "item": "examlpe_mod:poision"
+    },
+    "3": {
+      "item": "examlpe_mod:poision"
+    },
+    "5": {
+      "item": "examlpe_mod:poision"
+    }
+  },
+  "result": {
+    "item": "examlpe_mod:poision_armor_boots",
+    "count": 1
+  }
+}

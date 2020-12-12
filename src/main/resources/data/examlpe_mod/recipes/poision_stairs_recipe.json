@@ -1,0 +1,33 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "3": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "4": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "6": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "7": {
+      "item": "examlpe_mod:poision_planks"
+    },
+    "8": {
+      "item": "examlpe_mod:poision_planks"
+    }
+  },
+  "result": {
+    "item": "examlpe_mod:poision_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "examlpe_mod:blocks/poison_planks",
+    "particle": "examlpe_mod:blocks/poison_planks"
+  }
+}

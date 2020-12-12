@@ -1,0 +1,747 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Poisin_gem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisin_gem"
+    },
+    {
+      "name": "Poisin_gemOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisin_gem_ore"
+    },
+    {
+      "name": "Poisin_gemBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisin_gem_block"
+    },
+    {
+      "name": "Poisin_gemOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisin_gem_ore_block_recipe"
+    },
+    {
+      "name": "Poisin_gemBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisin_gem_block_ore_recipe"
+    },
+    {
+      "name": "Poisin_gemOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poisin_gem_ore_smelting"
+    },
+    {
+      "name": "Poision_gemPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_pickaxe"
+    },
+    {
+      "name": "Poision_gemAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_axe"
+    },
+    {
+      "name": "Poision_gemSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_sword"
+    },
+    {
+      "name": "Poision_gemShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_shovel"
+    },
+    {
+      "name": "Poision_gemHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_hoe"
+    },
+    {
+      "name": "Poision_gemPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_pickaxe_recipe"
+    },
+    {
+      "name": "Poision_gemAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_axe_recipe"
+    },
+    {
+      "name": "Poision_gemSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_sword_recipe"
+    },
+    {
+      "name": "Poision_gemShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_shovel_recipe"
+    },
+    {
+      "name": "Poision_gemHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_hoe_recipe"
+    },
+    {
+      "name": "Poision_gemArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Poision_gemArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_armor_helmet_recipe"
+    },
+    {
+      "name": "Poision_gemArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_armor_body_recipe"
+    },
+    {
+      "name": "Poision_gemArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_armor_leggings_recipe"
+    },
+    {
+      "name": "Poision_gemArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_gem_armor_boots_recipe"
+    },
+    {
+      "name": "PoisionWood",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_wood"
+    },
+    {
+      "name": "PoisionLog",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_log"
+    },
+    {
+      "name": "PoisionPlanks",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_planks"
+    },
+    {
+      "name": "PoisionLeaves",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_leaves"
+    },
+    {
+      "name": "PoisionStairs",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_stairs"
+    },
+    {
+      "name": "PoisionSlab",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_slab"
+    },
+    {
+      "name": "PoisionFence",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_fence"
+    },
+    {
+      "name": "PoisionFenceGate",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_fence_gate"
+    },
+    {
+      "name": "PoisionItemsTag",
+      "type": "tag",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_items_tag"
+    },
+    {
+      "name": "PoisionWoodRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_wood_recipe"
+    },
+    {
+      "name": "PoisionPlanksRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_planks_recipe"
+    },
+    {
+      "name": "PoisionStairsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_stairs_recipe"
+    },
+    {
+      "name": "PoisionSlabRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_slab_recipe"
+    },
+    {
+      "name": "PoisionFenceRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_fence_recipe"
+    },
+    {
+      "name": "PoisionFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_fence_gate_recipe"
+    },
+    {
+      "name": "PoisionStickRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_stick_recipe"
+    },
+    {
+      "name": "Poision",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision"
+    },
+    {
+      "name": "PoisionOre",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_ore"
+    },
+    {
+      "name": "PoisionBlock",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_block"
+    },
+    {
+      "name": "PoisionOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_ore_block_recipe"
+    },
+    {
+      "name": "PoisionBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_block_ore_recipe"
+    },
+    {
+      "name": "PoisionOreSmelting",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_ore_smelting"
+    },
+    {
+      "name": "PoisionPickaxe",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_pickaxe"
+    },
+    {
+      "name": "PoisionAxe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_axe"
+    },
+    {
+      "name": "PoisionSword",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_sword"
+    },
+    {
+      "name": "PoisionShovel",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_shovel"
+    },
+    {
+      "name": "PoisionHoe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_hoe"
+    },
+    {
+      "name": "PoisionPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_pickaxe_recipe"
+    },
+    {
+      "name": "PoisionAxeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_axe_recipe"
+    },
+    {
+      "name": "PoisionSwordRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_sword_recipe"
+    },
+    {
+      "name": "PoisionShovelRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_shovel_recipe"
+    },
+    {
+      "name": "PoisionHoeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_hoe_recipe"
+    },
+    {
+      "name": "PoisionArmor",
+      "type": "armor",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PoisionArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_armor_helmet_recipe"
+    },
+    {
+      "name": "PoisionArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_armor_body_recipe"
+    },
+    {
+      "name": "PoisionArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_armor_leggings_recipe"
+    },
+    {
+      "name": "PoisionArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poision_armor_boots_recipe"
+    },
+    {
+      "name": "PoisonWood",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_wood"
+    },
+    {
+      "name": "PoisonLog",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_log"
+    },
+    {
+      "name": "PoisonPlanks",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_planks"
+    },
+    {
+      "name": "PoisonLeaves",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_leaves"
+    },
+    {
+      "name": "PoisonStairs",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_stairs"
+    },
+    {
+      "name": "PoisonSlab",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_slab"
+    },
+    {
+      "name": "PoisonFence",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_fence"
+    },
+    {
+      "name": "PoisonFenceGate",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_fence_gate"
+    },
+    {
+      "name": "PoisonItemsTag",
+      "type": "tag",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_items_tag"
+    },
+    {
+      "name": "PoisonWoodRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_wood_recipe"
+    },
+    {
+      "name": "PoisonPlanksRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_planks_recipe"
+    },
+    {
+      "name": "PoisonStairsRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_stairs_recipe"
+    },
+    {
+      "name": "PoisonSlabRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_slab_recipe"
+    },
+    {
+      "name": "PoisonFenceRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_fence_recipe"
+    },
+    {
+      "name": "PoisonFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_fence_gate_recipe"
+    },
+    {
+      "name": "PoisonStickRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison_stick_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.examlpe_mod.poision_planks": "Poision Planks",
+      "item.examlpe_mod.poision_axe": "Poision Axe",
+      "item.examlpe_mod.poision_armor_helmet": "Poision Helmet",
+      "block.examlpe_mod.poision_leaves": "Poision Leaves",
+      "block.examlpe_mod.poison_planks": "Poison Planks",
+      "block.examlpe_mod.poison_slab": "Poison Slab",
+      "block.examlpe_mod.poison_leaves": "Poison Leaves",
+      "item.examlpe_mod.poision_armor_boots": "Poision Boots",
+      "item.examlpe_mod.poision_sword": "Poision Sword",
+      "item.examlpe_mod.poision_gem_axe": "Poision_gem Axe",
+      "item.examlpe_mod.poision_gem_pickaxe": "Poision_gem Pickaxe",
+      "block.examlpe_mod.poision_log": "Poision Log",
+      "block.examlpe_mod.poision_block": "Block of Poision",
+      "item.examlpe_mod.poision_shovel": "Poision Shovel",
+      "item.examlpe_mod.poision_gem_shovel": "Poision_gem Shovel",
+      "item.examlpe_mod.poision_armor_chestplate": "Poision Chestplate",
+      "block.examlpe_mod.poisin_gem_ore": "Poisin_gem Ore",
+      "item.examlpe_mod.poision_gem_hoe": "Poision_gem Hoe",
+      "block.examlpe_mod.poisin_gem_block": "Block of Poisin_gem",
+      "block.examlpe_mod.poison_fence": "Poison Fence",
+      "item.examlpe_mod.poision_gem_armor_chestplate": "Poision_gem Chestplate",
+      "block.examlpe_mod.poision_fence": "Poision Fence",
+      "item.examlpe_mod.poision_gem_armor_boots": "Poision_gem Boots",
+      "item.examlpe_mod.poision_gem_armor_helmet": "Poision_gem Helmet",
+      "block.examlpe_mod.poison_wood": "Poison Wood",
+      "item.examlpe_mod.poision_armor_leggings": "Poision Leggings",
+      "item.examlpe_mod.poision_pickaxe": "Poision Pickaxe",
+      "block.examlpe_mod.poision_ore": "Poision Ore",
+      "item.examlpe_mod.poision": "Poision",
+      "block.examlpe_mod.poison_stairs": "Poison Stairs",
+      "item.examlpe_mod.poision_hoe": "Poision Hoe",
+      "block.examlpe_mod.poision_wood": "Poision Wood",
+      "block.examlpe_mod.poision_fence_gate": "Poision Fence Gate",
+      "block.examlpe_mod.poison_log": "Poison Log",
+      "item.examlpe_mod.poision_gem_sword": "Poision_gem Sword",
+      "block.examlpe_mod.poision_slab": "Poision Slab",
+      "block.examlpe_mod.poison_fence_gate": "Poison Fence Gate",
+      "block.examlpe_mod.poision_stairs": "Poision Stairs",
+      "item.examlpe_mod.poision_gem_armor_leggings": "Poision_gem Leggings",
+      "item.examlpe_mod.poisin_gem": "Poisin_gem"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "examlpe_mod",
+    "modName": "examlpe_mod++",
+    "version": "1.0.0",
+    "author": "simongurin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.examlpemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000546519
+}

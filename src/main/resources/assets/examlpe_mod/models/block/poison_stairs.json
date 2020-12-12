@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "examlpe_mod:blocks/poison_planks",
+    "top": "examlpe_mod:blocks/poison_planks",
+    "side": "examlpe_mod:blocks/poison_planks"
+  }
+}

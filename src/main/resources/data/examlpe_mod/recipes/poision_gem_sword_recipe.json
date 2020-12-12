@@ -1,0 +1,16 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "examlpe_mod:poision_gem_sword",
+    "count": 1
+  }
+}

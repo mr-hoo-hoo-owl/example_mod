@@ -1,0 +1,26 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "examlpe_mod:poison_log"
+    },
+    "1": {
+      "item": "examlpe_mod:poison_log"
+    },
+    "2": {
+      "item": "examlpe_mod:poison_log"
+    },
+    "3": {
+      "item": "examlpe_mod:poison_log"
+    }
+  },
+  "result": {
+    "item": "examlpe_mod:poison_wood",
+    "count": 3
+  }
+}

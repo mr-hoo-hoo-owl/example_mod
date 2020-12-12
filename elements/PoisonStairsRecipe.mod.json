@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PoisonPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PoisonPlanks"
+      },
+      {
+        "value": "CUSTOM:PoisonPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PoisonPlanks"
+      },
+      {
+        "value": "CUSTOM:PoisonPlanks"
+      },
+      {
+        "value": "CUSTOM:PoisonPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PoisonStairs"
+    },
+    "name": "poison_stairs_recipe",
+    "namespace": "mod"
+  }
+}

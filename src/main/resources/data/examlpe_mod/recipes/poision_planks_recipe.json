@@ -1,0 +1,13 @@
+{
+  "group": "examlpe_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:poision_log"
+    }
+  ],
+  "result": {
+    "item": "examlpe_mod:poision_planks",
+    "count": 4
+  }
+}
